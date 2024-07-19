@@ -22,3 +22,11 @@ t1.from("img",{
     stagger:0.5,
     duration:0.5,
 })
+
+t1.from("h2",{
+    x:100,
+    opacity:0,
+    delay:0.4,
+    duration:0.8,
+    stagger:0.3
+})

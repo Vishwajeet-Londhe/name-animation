@@ -81,7 +81,8 @@ img{
 
 h2{
     position: absolute;
-    bottom: 1%;
+    bottom:0px;
+    padding-bottom: 10px;
 }
 
 #h11{
